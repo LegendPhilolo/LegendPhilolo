@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @LegendPhilolo
-- 👀 I’m interested in Learning Computer Science
-- 🌱 I’m currently learning Harvard CS50
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me text me.
+- 👋 Hi, I’m Philip Barongo.
+- 👀 I’m a Software Engineer.
+- 🌱 I’m currently working in Fiver.
+- 💞️ I’m looking to collaborate on any project.
+- 📫 How to reach me text me on my linked in project.
 
 <!---
 LegendPhilolo/LegendPhilolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
